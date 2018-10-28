@@ -12,3 +12,7 @@
 - [MingW-W64-builds](https://mingw-w64.org/doku.php/download)
 - [WinDirStat](https://windirstat.net/)
 - [ninite.com](https://ninite.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [7-zip](https://www.7-zip.org/)
+- [LibreOffice](https://pl.libreoffice.org/)
+- [uTorrent](https://www.utorrent.com/utweb-index)
