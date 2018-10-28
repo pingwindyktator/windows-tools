@@ -11,3 +11,4 @@
 - [Git](https://git-scm.com/)
 - [MingW-W64-builds](https://mingw-w64.org/doku.php/download)
 - [WinDirStat](https://windirstat.net/)
+- [ninite.com](https://ninite.com/)
