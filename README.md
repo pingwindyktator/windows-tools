@@ -17,3 +17,6 @@
 - [7-zip](https://www.7-zip.org/)
 - [LibreOffice](https://pl.libreoffice.org/)
 - [uTorrent](https://www.utorrent.com/utweb-index)
+- [Burp Suite](https://portswigger.net/burp)
+- [Jetbrains TOOLBOX](https://www.jetbrains.com/toolbox/)
+- [Rapid Environment Editor](https://www.rapidee.com/en/about)
