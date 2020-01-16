@@ -20,3 +20,5 @@
 - [Burp Suite](https://portswigger.net/burp)
 - [Jetbrains TOOLBOX](https://www.jetbrains.com/toolbox/)
 - [Rapid Environment Editor](https://www.rapidee.com/en/about)
+- [Subtitle Edit](https://www.nikse.dk/subtitleedit)
+- [NapiProject](https://www.napiprojekt.pl/)
