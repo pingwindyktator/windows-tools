@@ -26,5 +26,5 @@
 - [Files](https://github.com/files-community/Files)
 - [Microsoft WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
-- [Microsoft SysInternals](https://apps.microsoft.com/store/detail/9P7KNL5RWT25?hl=pl-pl&gl=PL&rtc=1)\
+- [Microsoft SysInternals](https://learn.microsoft.com/en-us/sysinternals/)
 - [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/)
