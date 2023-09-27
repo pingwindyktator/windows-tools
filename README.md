@@ -25,4 +25,4 @@
 - [EarTrumpet](https://eartrumpet.app/)
 - [Files](https://github.com/files-community/Files)
 - [WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
-- 
+- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
