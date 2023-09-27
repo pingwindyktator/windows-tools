@@ -24,5 +24,6 @@
 - [Videostream](https://getvideostream.com/)
 - [EarTrumpet](https://eartrumpet.app/)
 - [Files](https://github.com/files-community/Files)
-- [WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
-- [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [Microsoft WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
+- [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [Microsoft SysInternals](https://apps.microsoft.com/store/detail/9P7KNL5RWT25?hl=pl-pl&gl=PL&rtc=1)\
