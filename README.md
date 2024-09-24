@@ -10,7 +10,7 @@
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [Git](https://git-scm.com/)
 - [MingW-W64-builds](https://mingw-w64.org/doku.php/download)
-- [WinDirStat](https://windirstat.net/)
+- [WizTree](https://diskanalyzer.com/)
 - [ninite.com](https://ninite.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [7-zip](https://www.7-zip.org/)
