@@ -2,6 +2,8 @@
 - [conemu](https://conemu.github.io/)
 - [AltDrag](https://stefansundin.github.io/altdrag/)
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10)
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [winutils](https://github.com/ChrisTitusTech/winutil)
 - [Greenshot](http://getgreenshot.org/)
 - [Postman](https://www.getpostman.com/)
 - [AlwaysMouseWheel](http://www.softwareok.com/?Download=AlwaysMouseWheel)
