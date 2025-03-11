@@ -31,3 +31,4 @@
 - [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/)
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center Windows 10 taskbar icons
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Center Windows 10 taskbar icons and more
+- [Standalone Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/products/free/microsoft-windows-download.html) - Backup Software
