@@ -1,6 +1,6 @@
 # windows-tools
 - [conemu](https://conemu.github.io/)
-- [AltDrag](https://stefansundin.github.io/altdrag/)
+- [AltSnap](https://github.com/RamonUnch/AltSnap)
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [winutils](https://github.com/ChrisTitusTech/winutil)
