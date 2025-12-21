@@ -1,7 +1,6 @@
 # windows-tools
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
-- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10)
-- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Works for both Windows 10 and 11
 - [winutils](https://github.com/ChrisTitusTech/winutil)
 - [Postman](https://www.getpostman.com/)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
