@@ -1,12 +1,15 @@
 # windows-tools
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Works for both Windows 10 and 11
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Windows Subsystem for Linux
-- 
+-
+- [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
-- [winutils](https://github.com/ChrisTitusTech/winutil)
 - [Postman](https://www.getpostman.com/)
+- [httpie](https://httpie.io/) - Lightweight alternative to Postman
+- [HTTP Toolkit](https://httptoolkit.com/) - Intercept, view & edit any HTTP traffic
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [pgAdmin](https://www.pgadmin.org/)
+- [GitKraken](https://www.gitkraken.com/)
 - [Git](https://git-scm.com/)
 - [MingW-W64-builds](https://mingw-w64.org/doku.php/download)
 - [WizTree](https://diskanalyzer.com/)
@@ -20,11 +23,12 @@
 - [Rapid Environment Editor](https://www.rapidee.com/en/about)
 - [Subtitle Edit](https://www.nikse.dk/subtitleedit)
 - [NapiProject](https://www.napiprojekt.pl/)
-- [EarTrumpet](https://eartrumpet.app/)
+- [EarTrumpet](https://eartrumpet.app/) - Better volume control for Windows
 - [Microsoft WinToys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD)
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 - [Microsoft SysInternals](https://learn.microsoft.com/en-us/sysinternals/)
 - [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/)
+- [winutils](https://github.com/ChrisTitusTech/winutil)
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) - Center Windows 10 taskbar icons
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - Center Windows 10 taskbar icons and more
 - [Standalone Veeam Agent for Microsoft Windows FREE](https://www.veeam.com/products/free/microsoft-windows-download.html) - Backup Software
