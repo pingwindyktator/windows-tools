@@ -5,7 +5,6 @@
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
 - [winutils](https://github.com/ChrisTitusTech/winutil)
 - [Postman](https://www.getpostman.com/)
-- [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [pgAdmin](https://www.pgadmin.org/)
 - [Git](https://git-scm.com/)
