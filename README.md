@@ -2,6 +2,7 @@
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Works for both Windows 10 and 11
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Windows Subsystem for Linux
 -
+- [Core Temp](https://www.alcpu.com/CoreTemp/) - compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.
 - [Nilesoft Shell](https://nilesoft.org/) - Powerful, free, open source context menu manager
 - [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
