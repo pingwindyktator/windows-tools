@@ -2,7 +2,8 @@
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - Works for both Windows 10 and 11
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Windows Subsystem for Linux
 -
-- [Core Temp](https://www.alcpu.com/CoreTemp/) - compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.
+- [Zed](https://zed.dev/) - Minimal code editor crafted for speed and collaboration with humans and AI
+- [Core Temp](https://www.alcpu.com/CoreTemp/) - Compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information
 - [Nilesoft Shell](https://nilesoft.org/) - Powerful, free, open source context menu manager
 - [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701)
 - [AltSnap](https://github.com/RamonUnch/AltSnap)
@@ -15,8 +16,7 @@
 - [Git](https://git-scm.com/)
 - [MingW-W64-builds](https://mingw-w64.org/doku.php/download)
 - [WizTree](https://diskanalyzer.com/)
-- [ninite.com](https://ninite.com/)
-- [Notepad++](https://notepad-plus-plus.org/)
+- [ninite.com](https://ninite.com/)=
 - [7-zip](https://www.7-zip.org/)
 - [LibreOffice](https://pl.libreoffice.org/)
 - [uTorrent](https://www.utorrent.com/utweb-index)
